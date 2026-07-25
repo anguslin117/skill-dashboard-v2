@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "AngusLinV2",
-    lang: "JavaScript",
+    lang: "ASP.NET Core",
   },
   sections: [
     {
